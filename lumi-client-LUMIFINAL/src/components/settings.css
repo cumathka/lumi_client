@@ -1,0 +1,10 @@
+.settings ::-webkit-scrollbar{
+	width: 1em;
+}
+.settings ::-webkit-scrollbar-thumb{
+	background: #e9723d;
+    border-radius: 100vw;
+}
+.settings ::-webkit-scrollbar-thumb:hover{
+	background:  #c75929;
+}

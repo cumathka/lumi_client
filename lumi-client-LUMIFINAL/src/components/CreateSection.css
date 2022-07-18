@@ -1,0 +1,7 @@
+.flexSelect{
+    display: flex;
+    align-items: flex-start;
+}
+.inputWidth{
+    width: 200px;
+}
